@@ -11,7 +11,7 @@ const client=new ApolloClient({
 
     uri: 'http://localhost:4000/graphql'
 });
-
+//test
 class App extends Component {
   render() {
     return (
